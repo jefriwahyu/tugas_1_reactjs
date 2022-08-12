@@ -1,6 +1,11 @@
 # Tugas 1 React JS
 
-Membuat <b><i>Class Component</i></b>
+<b>Tujuan : </b>
+<ul>
+  <li>Memahami cara instalasi react js.</li>
+  <li>Memahami cara penggunaan class component.</li>
+  <li>Memahami cara penggunaan function component.</li>
+</ul>
 
 <b>Output in browser :</b>
 
